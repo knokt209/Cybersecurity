@@ -6,10 +6,10 @@ Feel free to explore the contents and reach out if you have any questions or wou
 
 ## Contents
 
-- [Project 1: Brief description]
-- [Project 2: Brief description]
-- [Project 3: Brief description]
-- [...and so on]
+- [Project 1: Alert ticket response]
+- [Project 2: Incident Report - Network Traffic]
+- [Project 3: Incident Report Analysys]
+- [Project 4: Stakeholder Memorandum]
 
 ## Contact
 
