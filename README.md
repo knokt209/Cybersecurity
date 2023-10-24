@@ -9,7 +9,8 @@ Feel free to explore the contents and reach out if you have any questions or wou
 - [Project 1: Alert ticket response]
 - [Project 2: Incident Report - Network Traffic]
 - [Project 3: Incident Report Analysys]
-- [Project 4: Stakeholder Memorandum]
+- [Project 4: Applying OS Hardening]
+- [Project 5: Stakeholder Memorandum]
 
 ## Contact
 
